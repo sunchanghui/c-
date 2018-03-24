@@ -1,1 +1,2 @@
-Qsort快速排序
+﻿Qsort快速排序
+Hsort堆排序
